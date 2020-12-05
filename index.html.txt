@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>rinkinmarch.com</title>
+</head>
+
+<body>
+<h1>2020-12-05</h1>
+
+</body>
+</html>
+
